@@ -1,6 +1,7 @@
 # Agentes_Tributarios_IA
 Es un proyecto de aprendizaje personal en el que me he centrado en crear un sistema intelegente de asistencia tributaria para contribuyentes. 
 La idea original era ampliar el alcance del proyecto a integrarlo con tools para el acceso a sistemas de gestión de colas de atención telemática o para rellenar o presentar escritos. Tal vez, algún día con algo más de tiempo retome la idea y la potencie con el uso de MCPs.
+![proyecto1](https://github.com/user-attachments/assets/4f2b559b-ce26-431e-9765-81a4500224e3)
 
 ---
 ## Índice
@@ -66,3 +67,5 @@ Si bien los modelos Gemini se consumen vía API, el modelo de embeddings y el re
 - Familia de modelos Gemini 2.0 (thinking, flash, pro, lite) para cada agente, seleccionando el más adecuado según la tarea (pensamiento, generación rápida, redacción, etc.).
 - Embeddings: https://huggingface.co/littlejohn-ai/bge-m3-spa-law-qa
 - Reranker: https://huggingface.co/BAAI/bge-reranker-v2-m3
+
+Si estás interesado en comentarlo o tienes preguntas, no dudes en contactar conmigo a través de mi página web: https://rubenro96.github.io/web/pages/contact/
