@@ -1,6 +1,6 @@
 # Agentes_Tributarios_IA
-Se trata de un proyecto de aprendizaje personal en el que me he centrado en crear un sistema intelegente de asistencia tributaria para contribuyentes. 
-La visión original era más ambiciosa, buscando integraciones con herramientas para el acceso a **sistemas de gestión de colas de atención telemática** o para **facilitar la cumplimentación y presentación de escritos**. Sin embargo, no tuve tiempo para continuarla por motivos labores y académicos, tal vez, en el futuro, con más tiempo, me encantaría retomarla y potenciar el sistema introduciendo también técnicas más recientes el uso de MCPs.
+Se trata de un proyecto de aprendizaje personal en el que me he centrado en crear un **sistema intelegente de asistencia tributaria para contribuyentes**. 
+La visión original era más ambiciosa, buscando integraciones con herramientas para el acceso a sistemas de gestión de colas de atención telemática o para facilitar la cumplimentación y presentación de escritos. Sin embargo, no tuve tiempo para continuarla por motivos labores y académicos, tal vez, en el futuro, con más tiempo, me encantaría retomarla y potenciar el sistema introduciendo también técnicas más recientes el uso de MCPs.
 
 ![proyecto1](https://github.com/user-attachments/assets/4f2b559b-ce26-431e-9765-81a4500224e3)
 
